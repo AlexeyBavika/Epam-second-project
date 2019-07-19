@@ -1,0 +1,11 @@
+A regular expression regex defines a search pattern for the strings. The abbreviation for the regular expression is regex regex.
+The search regex pattern can be anything from a simple character, a fixed string or a complex expression containing special
+ characters describing the regex pattern.
+  The pattern regex defined by the regex may match one or several times or not at all for a given string.
+
+Regular expressions regex can be used to the search, edit and manipulate a text.
+
+The process of the analyzing or modifying a text with a regex is called. A regular expression regex is applied
+ to the text/string. A pattern regex defined by the regex is applied on the text from the left to the right.
+  Once a source character regex has been used in the match, it cannot be reused.
+  For example, the regex aba will match a ababababa only two times (aba_aba__).
